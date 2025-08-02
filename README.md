@@ -4,7 +4,9 @@ This project implements a machine learning model to predict a person's marital s
 
 ## Project Overview
 
-The dataset used in this project is from the Kaggle "Adult Census Income" dataset (Census data from 1994). The dataset contains demographic and economic attributes of individuals, such as age, education, occupation, and hours worked per week. The task is to predict whether a person is "Married," "Previously Married," or "Not Currently Married."
+The census dataset used contains demographic and economic attributes of individuals, such as age, education, occupation, and hours worked per week. The goal is to predict whether a person is "Married," "Previously Married," or "Not Currently Married."
+
+This project was completed as part of the Cornell's **Break Through Tech AI Program**.
 
 ## Project Files
 
