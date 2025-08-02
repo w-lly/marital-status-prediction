@@ -22,6 +22,12 @@ cd ML-Marital-Status-Prediction
 pip install -r requirements.txt
 ```
 
+Run jupyter notebook with the following:
+
+```bash
+jupyter notebook
+```
+
 ## Key Features
 
 - **Logistic Regression Model** for multi-class classification.
