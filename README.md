@@ -18,8 +18,9 @@ This project was completed as part of the Cornell's **Break Through Tech AI Prog
 
 To run this project, clone the repository, extract `data.zip` file, and install the necessary dependencies.
 
+Example:
 ```bash
-git clone https://github.com/yourusername/ML-Marital-Status-Prediction.git
+git clone https://github.com/yourusername/marital_status_prediction.git
 cd ML-Marital-Status-Prediction
 pip install -r requirements.txt
 ```
