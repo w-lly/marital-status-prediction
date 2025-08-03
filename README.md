@@ -1,4 +1,4 @@
-# martial_status_prediction
+# martial-status-prediction
 
 This project implements a machine learning model to predict a person's marital status based on various features. The goal is to predict the `marital-status` label, which is a multi-class classification problem. The project follows the standard machine learning life cycle, including data exploration, preprocessing, model training, evaluation, and hyperparameter tuning.
 
